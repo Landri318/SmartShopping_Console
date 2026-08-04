@@ -1,0 +1,14 @@
+C:\Users\jolan\OneDrive\Desktop\2026\semester 2\prog6212\SmartShoppingCart_Ice1\SmartShoppingCart_Ice1\bin\Debug\net10.0\SmartShoppingCart_Ice1.exe
+C:\Users\jolan\OneDrive\Desktop\2026\semester 2\prog6212\SmartShoppingCart_Ice1\SmartShoppingCart_Ice1\bin\Debug\net10.0\SmartShoppingCart_Ice1.deps.json
+C:\Users\jolan\OneDrive\Desktop\2026\semester 2\prog6212\SmartShoppingCart_Ice1\SmartShoppingCart_Ice1\bin\Debug\net10.0\SmartShoppingCart_Ice1.runtimeconfig.json
+C:\Users\jolan\OneDrive\Desktop\2026\semester 2\prog6212\SmartShoppingCart_Ice1\SmartShoppingCart_Ice1\bin\Debug\net10.0\SmartShoppingCart_Ice1.dll
+C:\Users\jolan\OneDrive\Desktop\2026\semester 2\prog6212\SmartShoppingCart_Ice1\SmartShoppingCart_Ice1\bin\Debug\net10.0\SmartShoppingCart_Ice1.pdb
+C:\Users\jolan\OneDrive\Desktop\2026\semester 2\prog6212\SmartShoppingCart_Ice1\SmartShoppingCart_Ice1\obj\Debug\net10.0\SmartShoppingCart_Ice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jolan\OneDrive\Desktop\2026\semester 2\prog6212\SmartShoppingCart_Ice1\SmartShoppingCart_Ice1\obj\Debug\net10.0\SmartShoppingCart_Ice1.AssemblyInfoInputs.cache
+C:\Users\jolan\OneDrive\Desktop\2026\semester 2\prog6212\SmartShoppingCart_Ice1\SmartShoppingCart_Ice1\obj\Debug\net10.0\SmartShoppingCart_Ice1.AssemblyInfo.cs
+C:\Users\jolan\OneDrive\Desktop\2026\semester 2\prog6212\SmartShoppingCart_Ice1\SmartShoppingCart_Ice1\obj\Debug\net10.0\SmartShoppingCart_Ice1.csproj.CoreCompileInputs.cache
+C:\Users\jolan\OneDrive\Desktop\2026\semester 2\prog6212\SmartShoppingCart_Ice1\SmartShoppingCart_Ice1\obj\Debug\net10.0\SmartShoppingCart_Ice1.dll
+C:\Users\jolan\OneDrive\Desktop\2026\semester 2\prog6212\SmartShoppingCart_Ice1\SmartShoppingCart_Ice1\obj\Debug\net10.0\refint\SmartShoppingCart_Ice1.dll
+C:\Users\jolan\OneDrive\Desktop\2026\semester 2\prog6212\SmartShoppingCart_Ice1\SmartShoppingCart_Ice1\obj\Debug\net10.0\SmartShoppingCart_Ice1.pdb
+C:\Users\jolan\OneDrive\Desktop\2026\semester 2\prog6212\SmartShoppingCart_Ice1\SmartShoppingCart_Ice1\obj\Debug\net10.0\SmartShoppingCart_Ice1.genruntimeconfig.cache
+C:\Users\jolan\OneDrive\Desktop\2026\semester 2\prog6212\SmartShoppingCart_Ice1\SmartShoppingCart_Ice1\obj\Debug\net10.0\ref\SmartShoppingCart_Ice1.dll
